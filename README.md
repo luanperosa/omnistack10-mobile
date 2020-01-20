@@ -1,6 +1,8 @@
 # Omnistack10-mobile DevRadar
 Semana Omnistack 10.0 da Rockatseat
 
+![DevRadar](https://user-images.githubusercontent.com/50602816/72694291-45d18d80-3b13-11ea-8eca-866783a6b6f1.gif)
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
