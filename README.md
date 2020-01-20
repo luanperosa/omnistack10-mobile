@@ -24,6 +24,8 @@ O projeto mobile foi desenvolvido com o <strong>Expo</strong>, siga os passos pa
 
 Depois do clone desse repositorio executar o comando `npm i` para instalar as dependencias e executar o comando `npm start`, irá abrir a interface do Expo, acessar a pasta raiz da aplicação, /src/services/api.js e na <strong>baseURL</strong> incluir o endereço IP que aparece na <strong>interface do Expo</strong> com excessão da porta. Realizar o mesmo procedimento na pasta src/services/socket.js incluindo o mesmo endereço IP no <strong>socketio</strong>. Vide o .gif abaixo para entender melhor todo o processo. 
 
+![DevRadarIpMobile](https://user-images.githubusercontent.com/50602816/72694246-1b7fd000-3b13-11ea-8983-877695173b9b.gif)
+
 ## Link do projeto Backend
 
 https://github.com/luanperosa/omnistack10-backend
